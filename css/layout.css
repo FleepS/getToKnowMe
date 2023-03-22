@@ -183,6 +183,24 @@ ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #F06000; }
 
 
+/* --------------- */
+/* Intro
+/* ----------------- */
+
+#intro {
+   padding-top: 35px;
+   padding-bottom: 35px;
+   padding-left: 10%;
+   padding-right: 10%;
+}
+#intro p {
+   text-align: center;
+   font: 25px 'librebaskerville-italic', serif;
+   color: white;
+   margin: 0;
+}
+
+
 /* ------------------------------------------------------------------ */
 /* c. About Section
 /* ------------------------------------------------------------------ */
